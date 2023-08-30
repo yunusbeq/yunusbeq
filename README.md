@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yunus-emre-ekinci-912379216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunus-emre-ekinci-912379216" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yunusemreekinci3602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yunusemreekinci3602" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@yunusemreekinci3602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yunusemreekinci3602" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
