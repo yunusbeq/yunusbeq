@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yunus Emre</h1>
 <h3 align="center">A passionate Software developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Spring Boot and React**
-
-- 💬 Ask me about **Spring, React and Cyber Security**
+- 🌱 I’m currently learning **Node.JS and React**
 
 - 📫 How to reach me **alwa1ce2@gmail.com**
 
